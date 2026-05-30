@@ -1,6 +1,6 @@
 # Viewing and Interpreting Sign-In Logs in Microsoft Azure's Entra ID  <p align="center"> 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" /> 
+<img width="600" height="400" alt="image" src="https://github.com/DHLabs1/sign-in-logs/blob/d99fe5733a24f7499df6a407b645f95ec07fde7c/screeshots/560031642-14806b36-bc52-44a8-a825-615241d884e0.png" /> 
 </p>
 
 <h1>Sign-In Logs for Users (Azure)</h1>
@@ -19,7 +19,7 @@ This tutorial outlines the process of viewing and interpreting Sign-In Logs of u
 <h2>Sign-In Logs </h2> 
 
 <p> 
-<img width="1916" height="886" alt="image" src="https://github.com/userattachments/assets/bae0b986-2d53-474f-9a86-c07b9b545a72" /> 
+<img width="1916" height="886" alt="image" src="https://github.com/DHLabs1/sign-in-logs/blob/d99fe5733a24f7499df6a407b645f95ec07fde7c/screeshots/Self%20sign%20in%20logs.JPG" /> 
 
 </p>
 <p> 
